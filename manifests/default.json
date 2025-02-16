@@ -3,7 +3,7 @@
 	"orientation": "portrait",
 	"icons": [
 		{
-		"src": "{BASE_URL}default.png",
+		"src": "{ICONS_REPO_URL}default.png",
 		"purpose": "any maskable"
 		}
 	],

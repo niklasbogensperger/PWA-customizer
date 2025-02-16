@@ -1,14 +1,14 @@
 {
-	"name": "news.orf.at",
-	"short_name": "news.orf.at",
+	"name": "news.orf.at TEST",
+	"short_name": "news.orf.at TEST",
 	"display": "standalone",
 	"orientation": "portrait",
 	"icons": [
 		{
-		"src": "{BASE_URL}default.png",
+		"src": "{ICONS_REPO_URL}default.png",
 		"purpose": "any maskable"
 		}
 	],
 	"theme_color": "#5286C1",
-	"background_color": "#ffffff"
+	"background_color": "#5286C1"
 }

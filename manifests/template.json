@@ -5,7 +5,7 @@
 	"orientation": "portrait",
 	"icons": [
 		{
-		"src": "{BASE_URL}IMAGE",
+		"src": "{ICONS_REPO_URL}site-name.png",
 		"purpose": "any maskable"
 		}
 	],
