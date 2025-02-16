@@ -1,0 +1,14 @@
+{
+	"name": "NAME",
+	"short_name": "NAME",
+	"display": "standalone",
+	"orientation": "portrait",
+	"icons": [
+		{
+		"src": "{BASE_URL}IMAGE",
+		"purpose": "any maskable"
+		}
+	],
+	"theme_color": "#COLOR",
+	"background_color": "#COLOR"
+}

@@ -1,0 +1,12 @@
+{
+	"display": "standalone",
+	"orientation": "portrait",
+	"icons": [
+		{
+		"src": "{BASE_URL}default.png",
+		"purpose": "any maskable"
+		}
+	],
+	"theme_color": "#000000",
+	"background_color": "#ffffff"
+}
